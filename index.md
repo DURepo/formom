@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Mom
 
 You can use the [editor on GitHub](https://github.com/DURepo/formom/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
