@@ -41,7 +41,7 @@ Follow the steps and copy few student student records from your students excel s
 # Part C
 ## Get only required student names from excel to notepad 
 Please watch this vedio on how to do this:
-<video src="https://youtu.be/j52LA-ushAE" width="320" height="200" controls preload></video>
+src="<iframe width="660" height="371" src="https://www.youtube.com/embed/j52LA-ushAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" 
 
 ### We have followed these Steps:
 ```Steps
