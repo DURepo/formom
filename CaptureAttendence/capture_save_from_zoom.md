@@ -16,8 +16,8 @@ Step6: Save the file
 ```
 
 ### Your Turn:
-Now you will capture a screenshot of the participants in your dummy zoom meeting. \
-Follow the steps and create you screenshot. Save the file as 'Today's Date_ClassName_Participants'.\
+Now you will capture a screenshot of the participants in your dummy zoom meeting. 
+Follow the steps and create you screenshot. Save the file as 'Today's Date_ClassName_Participants'.
 Example file name: '14July2020_Class10_SectionA_Participants'
 
 
