@@ -7,7 +7,12 @@ At the end of this session you will be able to capture students attendence from 
 ## Task 1: How to 'Capture and save attendence from Zoom'
 Click on Below link to go the tutorial.
 
-  [a relative link](CaptureAttendence/capture_save_from_zoom.md)
+  [Capture Zoom Attendence](CaptureAttendence/capture_save_from_zoom.md)
+  
+## Task 2: Working With Excel Sheets
+Click on Below link to go the tutorial.
+
+  [Working With Excel Sheets](CaptureAttendence/working_with_excel.md)
 
 ### Markdown
 
