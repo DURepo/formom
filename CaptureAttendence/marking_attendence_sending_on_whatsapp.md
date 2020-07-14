@@ -59,5 +59,7 @@ Step3: Open web.whatsapp and paste in the whatsApp chat and click send.
 From students excel sheet mark attendence for a dummy day by creating new column and paste it in notepad. From notepad send the list to any Whatsapp contact in your phone.
 
 
-### Congratulations you have completed all the sections.. :clap: :clap:
-### Now with the time you save play for some more time :dancer:
+### Congratulations you have completed all the sections.. 
+:clap: :clap:
+### Now with the time you save play for some more time 
+:dancer:
