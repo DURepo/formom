@@ -1,9 +1,8 @@
 ## Some Handy Material for you.
 
-Let us start with the task of taking attendence online.
-
 At the end of this session you will be able to capture students attendence from Zoom Class and share it in School's Whatsapp group.
 
+Let us start with the task of taking attendence online.
 ## Task 1: How to 'Capture and save attendence from Zoom'
 Click on Below link to go the tutorial.
 
