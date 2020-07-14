@@ -60,6 +60,7 @@ From students excel sheet mark attendence for a dummy day by creating new column
 
 
 ### Congratulations you have completed all the sections.. 
-:clap: :clap:
+:clap
+<img src="children-593313_640.jpg" alt="hi" class="inline"/>
 ### Now with the time you save play for some more time 
 :dancer:
