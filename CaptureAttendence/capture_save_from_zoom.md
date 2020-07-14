@@ -3,6 +3,7 @@
 
 ### Watch how to do this
 Please watch this vedio on how to do this: [Video link](CaptureAttendence/capture_attendees_from_Zoom.mp4)
+<video src="capture_attendees_from_Zoom.mp4" width="320" height="200" controls preload></video>
 
 ### We have followed these Steps:
 Step1: Open and Start Zoom meeting
