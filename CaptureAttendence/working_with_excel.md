@@ -48,8 +48,12 @@ Please watch this vedio on how to do this:
 Step1: Open the excel sheet (temporary.xlsx)
 Step2: (Optional) Delete empty rows if they are present
 Step3: Select all the student names (use 'shift' key) and copy them
-Step4: Open 'Notepad' (start button/windows button --> )
+Step4: Open 'Notepad' (start button/windows button --> type 'Notepad' --> Open Notepad)
+Step5: Paste the copied names on Notepad
 ```
+
+### Your Turn:
+Follow the steps and copy the names from your temporary sheet to a Notepad file
 
 
 
